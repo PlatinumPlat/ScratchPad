@@ -1,0 +1,4 @@
+openai
+pygame
+opencv-python
+elevenlabs
